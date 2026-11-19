@@ -29,7 +29,7 @@ The target variables describe DPs occurrence and volume fraction. DPs occurrence
 
 If you use the datasets or code in this repository, please cite the associated article once its publication details become available:
 
-Jinyu liang and Fan Zhao. Machine learning-assisted understanding of discontinuous precipitation behavior in Cu-Ni-Si alloy. Journal of Materials Informatics. 2026.
+Jinyu liang and Fan Zhao. Machine-learning-assisted understanding of discontinuous precipitation behavior in Cu-Ni-Si alloy. Journal of Materials Informatics. 2026. D0I:10.20517/jmi.2026.72
 
 ## Contact
 
